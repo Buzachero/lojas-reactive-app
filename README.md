@@ -22,5 +22,5 @@ Para realizar o build do projeto, é necessário:
 * Maven
 
 Para rodar os testes:
-*mvn clean test
+* mvn clean test
 
